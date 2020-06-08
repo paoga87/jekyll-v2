@@ -1,0 +1,75 @@
+---
+layout: default
+title: Personal Website Crafted with ♥ 
+description: Personal website made with ♥ by Paola Garcia Cardenas
+featured_image: /images/home.jpg
+---
+
+<section class="hero">
+
+	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
+		<div class="hero__overlay"></div>
+	</div>
+
+	<div class="wrap">
+
+		<h1>Thank you
+			for visiting!
+		</h1>
+		<p>Software Developer | Cybersecurity | InfoSec</p>
+
+		{% include socials.html %}
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	<div class="wrap">
+
+		<article class="single-post">
+			<p>I am highly motivated and focused on growing in the field of computer science, cybersecurity, engineering and technology. 
+				I consider myself an every-day learner and problem solver with strong technical and interpersonal skills.</p>
+
+			<p>Two of my favorite quotes:</p>
+
+			<p><i>“Ability is what you are capable of doing. Motivation determines what you do. 
+				Attitude determines how well you do it.”</i> <b>~Lou Holtz</b></p>
+		
+			<p><i>“I hear and I forget. I see and I remember. I do and I understand.”</i> <b>~Confucius</b></p>
+
+		</article>
+
+	</div>
+
+</section>
+
+<section class="listing">
+
+	<div class="wrap">
+
+		{% for post in site.posts limit:2 %}
+
+		<article class="post">
+
+			<div class="post__image-wrap">
+				<div class="post__image" style="background-image: url({{ post.featured_image | relative_url }})"></div>
+			</div>
+
+			<div class="post__content-wrap">
+				<div class="post__content">
+					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+					<p class="post__subtitle">{{ post.subtitle }}</p>
+					<p class="post__description">{{ post.description }}</p> 
+					<p class="post__date">{{ post.date | date: "%B %d, %Y" }}</p>
+				</div>
+			</div>
+
+		</article>
+
+		{% endfor %}
+
+	</div>
+
+</section>
