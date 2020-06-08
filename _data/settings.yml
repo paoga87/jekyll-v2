@@ -12,11 +12,11 @@ menu_settings:
     - title: 'Home'
       url: '/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
     - title: 'Resume'
-      url: '/resume'
+      url: '/resume/'
     - title: 'Blog'
       url: '/blog/'
 
@@ -31,7 +31,7 @@ post_settings:
 
 contact_settings:
   form_action: 'https://formspree.io/xbjzoeea'
-  confirmation_url: '/thanks'
+  confirmation_url: '/thanks/'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
