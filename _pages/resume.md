@@ -37,17 +37,19 @@ featured_image: /images/resume_cover.jpg
 
 | Certificates                           | Year | 
 |----------------------------------------|------|
+| CompTIA Security+                      | 2020 |
 | Project Management Certificate Program | 2015 |
 | HTML5 Mobile App Development           | 2013 |
 
 | Knowledge & Skills                | Level          |
 |--------------------------------------------------|
-| HTML5, CSS, PHP, Javascript       | ++++++++++     |
-| Drupal & Wordpress CMS            | ++++++++++     |
-| SQL, Jekyll, Twig, Bootstrap, Git | ++++++++       |
-| SASS, LESS, Accesibility, 508     | ++++++++       |
-| Google Analytics                  | ++++++++       |
-| Adobe Photoshop, Illustrator      | ++++++++       |
-| Adobe Premiere Pro, Spark         | +++++++        |
-| Kali Linux                        | +++++++        |
-| Python, Metasploit, nmap          | +++++          |
+| HTML5, CSS, PHP, Javascript       | ++++++++     |
+| Drupal & Wordpress CMS            | ++++++++     |
+| SQL, Jekyll, Twig, Bootstrap, Git | ++++++       |
+| SASS, LESS, Accesibility, 508     | ++++++       |
+| Google Analytics                  | ++++++       |
+| Adobe Photoshop, Illustrator      | ++++++       |
+| Adobe Premiere Pro, Spark         | +++++        |
+| Kali Linux                        | +++++        |
+| CMMC, FedRAMP                     | +++++        |
+| Python, Metasploit, nmap          | +++          |

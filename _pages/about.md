@@ -21,6 +21,6 @@ I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/c
 
 I currently work as a Software Developer at [Bixal](https://www.bixal.com/). I am also an Adjunct of Computer Science at [St. Thomas Aquinas College](http://www.stac.edu/) and a Course Assistant at [New York University (NYU)](http://www.nyu.edu/).
 
-When not at work, you can find me at the gym or home reading a book with my dog and cats! I love watching sports and I also like to [write about soccer](http://doublegsports.com/author/paola-garcia-cardenas/) once in a while. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
+When not at work, you can find me at the gym or home reading a book with my dogs and cats! I love watching sports and I also like to [write about soccer](http://doublegsports.com/author/paola-garcia-cardenas/) once in a while. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
 ##### Last updated: {{ 'now' | date: "%B, %Y" }}
