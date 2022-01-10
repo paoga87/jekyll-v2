@@ -1,20 +1,22 @@
 ---
 title: Resume
-subtitle: Education, work, honors & awards, knowledge & skills
-description: Paola Garcia Cardenas' Resuma
+subtitle: Education, work, certificates, honors & awards, knowledge & skills
+description: Paola Garcia Cardenas' Resume
 featured_image: /images/resume_cover.jpg
 ---
 
 | Education                  | Degree                              | Dates of attendance            | 
 |----------------------------|-------------------------------------|--------------------------------|
-| New York University        | M.S in Cybersecurity                | Sempterber 2018 - Present      | 
+| New York University        | M.S in Cybersecurity                | September 2018 - August 2021   | 
 | Pace University            | M.S in Computer Science             | September 2012 - December 2014 | 
 | St. Thomas Aquinas College | B.S in Computer Science             | September 2010 - December 2012 |
 | Rockland Community College | A.S in Computer Information Systems | September 2008 - May 2010      |
 
 | Professional Experience                              | Dates of employment            | 
 |------------------------------------------------------|--------------------------------|
-| Software Developer, Bixal Solutions Inc.             | August 2019 - Present          |
+| Cybersecurity Engineer, Bixal Solutions Inc.         | August 2019 - Present          |
+| Software Developer                                                                    |
+| Cybersecurity Adjunct (Cyberfellows Program), New York University | September 2021 - Present |
 | Computer Science Adjunct, St. Thomas Aquinas College | September 2017 - Present       | 
 | Web Developer, OnSSI Inc.                            | August 2017 - August 2019      | 
 | Computer Studies Adjunct, Rockland Community College | January 2015 - January 2017    | 
@@ -37,6 +39,8 @@ featured_image: /images/resume_cover.jpg
 
 | Certificates                           | Year | 
 |----------------------------------------|------|
+| CompTIA PenTest+                       | 2021 |
+| CompTIA - CNVP Stackable Certification | 2021 |
 | CompTIA Security+                      | 2020 |
 | Project Management Certificate Program | 2015 |
 | HTML5 Mobile App Development           | 2013 |
@@ -51,5 +55,7 @@ featured_image: /images/resume_cover.jpg
 | Adobe Photoshop, Illustrator      | ++++++       |
 | Adobe Premiere Pro, Spark         | +++++        |
 | Kali Linux                        | +++++        |
-| CMMC, FedRAMP                     | +++++        |
+| CMMC, FedRAMP, ARS                | +++++        |
 | Python, Metasploit, nmap          | +++          |
+
+##### Last updated: {{ 'now' | date: "%B, %Y" }}

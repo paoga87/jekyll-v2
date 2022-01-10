@@ -17,10 +17,10 @@ I participated in the [Cultural Care Au Pair Program](https://culturalcare.com/)
 
 After being an Au Pair, I decided to stay and attend school here in the US. I started at [SUNY Rockland Community College](http://www.sunyrockland.edu/) and graduated with an A.S in Computer Information Systems (GPA 3.83). Attending a community college opened many doors for me, which led to academic and athletic scholarship opportunities to complete my 4-year degree at [St. Thomas Aquinas College](http://www.stac.edu/) with a B.S. in Computer Science (GPA 3.56). Later on, I received a Merit scholarship to attend Graduate school. Thanks to that, in December of 2014 I completed my Masters in Computer Science (GPA 3.81) at [Pace University](http://www.pace.edu/).
 
-I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows) program in the Fall of 2018. You can check my student profile [here](https://engineering.nyu.edu/student/paola-garcia-cardenas).
+I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows) program in the Fall of 2018. You can check my student profile [here](https://engineering.nyu.edu/student/paola-garcia-cardenas). I graduated in the Summer of 2021 with my Masters in Cybersecurity (GPA 3.73) from [New York University (NYU)](http://www.nyu.edu/).
 
-I currently work as a Software Developer at [Bixal](https://www.bixal.com/). I am also an Adjunct of Computer Science at [St. Thomas Aquinas College](http://www.stac.edu/) and a Course Assistant at [New York University (NYU)](http://www.nyu.edu/).
+I currently work as a Cybersecurity Engineer (previously Software Developer) at [Bixal](https://www.bixal.com/). I am also an Adjunct of Computer Science at [St. Thomas Aquinas College](http://www.stac.edu/) and an Adjunct of Cybersecurity for the Cyberfellows program at [New York University (NYU)](http://www.nyu.edu/).
 
-When not at work, you can find me at the gym or home reading a book with my dogs and cats! I love watching sports and I also like to [write about soccer](http://doublegsports.com/author/paola-garcia-cardenas/) once in a while. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
+When not at work, you can find me running, exercising or enjoying walks with my dogs! I'm a huge sports fan and one of my most recent accomplishments that I'm proud of, was running my first Marathon (NYC Marathon) in the Fall of 2021. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
 ##### Last updated: {{ 'now' | date: "%B, %Y" }}
