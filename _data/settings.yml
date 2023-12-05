@@ -21,7 +21,7 @@ menu_settings:
       url: '/blog/'
 
 footer_settings:
-  footer_tagline: Software Developer | Cybersecurity | InfoSec | Soccer | Run | Dogs & cats
+  footer_tagline: Cybersecurity | InfoSec | Software Development | Running | Dogs & cats
 
 hero_settings:
   overlay_opacity: 0.6

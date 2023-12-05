@@ -1,1 +1,1 @@
-Sitemap: //paolagarcia.com/sitemap.xml
+Sitemap: https://paolagarcia.com/sitemap.xml

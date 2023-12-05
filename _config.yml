@@ -1,7 +1,7 @@
 site: Paola Garcia Cardenas Website
 
-url: //paolagarcia.com
-baseurl:
+url: https://paolagarcia.com
+baseurl: ''
 
 collections:
   pages:
