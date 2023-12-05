@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Software Developer | Cybersecurity | InfoSec
+subtitle: Cybersecurity | InfoSec | Software Development
 description: Information about Paola Garcia Cardenas
 featured_image: /images/about.jpg
 ---
@@ -21,6 +21,6 @@ I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/c
 
 I currently work as a Cybersecurity Engineer (previously Software Developer) at [Bixal](https://www.bixal.com/). I am also an Adjunct of Computer Science at [St. Thomas Aquinas College](http://www.stac.edu/) and an Adjunct of Cybersecurity for the Cyberfellows program at [New York University (NYU)](http://www.nyu.edu/).
 
-When not at work, you can find me running, exercising or enjoying walks with my dogs! I'm a huge sports fan and one of my most recent accomplishments that I'm proud of, was running my first Marathon (NYC Marathon) in the Fall of 2021. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
+When not at work, you can find me running, exercising or enjoying walks with my dogs! I'm a huge sports fan and one of my most recent accomplishments that I'm proud of, was running my 6th full marathon in October 2023. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
 ##### Last updated: {{ 'now' | date: "%B, %Y" }}
