@@ -13,9 +13,9 @@ Photo by **Hayes Potter** on **Unsplash**.
 
 If you have been hearing the word “cybersecurity” 10x more often than you used to, this is no surprise. There is no doubt the Covid pandemic changed the digital space forever, and the U.S. Federal government continues to push for improvements in Cybersecurity.
 
-In the aftermath of the Covid-19 crisis, “Worldwide end-user spending on public cloud services is forecast to grow 20.7% to total $591.8 billion in 2023, up from $490.3 billion in 2022, according to the latest forecast from Gartner, Inc. This is higher than the 18.8% growth forecast for 2022.” 
+In the aftermath of the Covid-19 crisis, “Worldwide end-user spending on public cloud services is forecast to grow 20.7% to total $591.8 billion in 2023, up from $490.3 billion in 2022, according to the latest forecast from Gartner, Inc. This is higher than the 18.8% growth forecast for 2022.”[^1]
 
-On March 1, 2023, President Biden released the National Cybersecurity Strategy in which they announced the “...Administration is investing $65 billion to make sure every American has access to reliable, high-speed Internet.” The strategy also recognizes that collaboration between the public and private sectors is of utmost importance in keeping the security of cyberspace. 
+On March 1, 2023, President Biden released the National Cybersecurity Strategy[^2] in which they announced the “...Administration is investing $65 billion to make sure every American has access to reliable, high-speed Internet.” The strategy also recognizes that collaboration between the public and private sectors is of utmost importance in keeping the security of cyberspace.
 
 Whether you are from the private or public sector in the U.S., you are just getting started in Cybersecurity or just curious about this topic, you would want to keep the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/) at the top of your list.
 
@@ -34,3 +34,6 @@ In this blog series, we are going to explore the following seven NIST frameworks
 Want to see other frameworks included or let me know what you thought about this write-up? [Get in touch](https://paolagarcia.com/contact/)!
 
 In Part II, I will be breaking down each of the seven frameworks listed above, and dive into some common use cases and how they are applied in industry.
+
+[^1]: [Gartner Forecasts Worldwide Public Cloud End-User Spending to Reach Nearly $600 Billion in 2023](https://www.gartner.com/en/newsroom/press-releases/2022-10-31-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023)
+[^2]: [National Cybersecurity Strategy March 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
