@@ -31,6 +31,6 @@ In this blog series, we are going to explore the following seven NIST frameworks
 -	[NIST SP 800-207:](https://csrc.nist.gov/pubs/sp/800/207/final) Zero Trust Architecture
 -	[NIST SP 800-218:](https://csrc.nist.gov/pubs/sp/800/218/final) Secure Software Development Framework (SSDF)
 
-Want to see other frameworks included or let me know what you thought about this write-up, [get in touch](https://paolagarcia.com/contact/)!
+Want to see other frameworks included or let me know what you thought about this write-up? [Get in touch](https://paolagarcia.com/contact/)!
 
 In Part II, I will be breaking down each of the seven frameworks listed above, and dive into some common use cases and how they are applied in industry.
