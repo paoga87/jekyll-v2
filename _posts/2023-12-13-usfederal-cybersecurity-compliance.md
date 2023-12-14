@@ -19,9 +19,9 @@ On March 1, 2023, President Biden released the National Cybersecurity Strategy[^
 
 Whether you are from the private or public sector in the U.S., you are just getting started in Cybersecurity or just curious about this topic, you would want to keep the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/) at the top of your list.
 
-According to the NIST’s Cybersecurity site, “NIST develops cybersecurity standards, guidelines, best practices, and other resources to meet the needs of U.S. industry, federal agencies and the broader public.”  NIST Special Publications (SP) are part of this. Particularly, we will be looking at the SP 800 publications, one of multiple sub-series which are specifically for computer security.
+According to the NIST’s Cybersecurity site, “NIST develops cybersecurity standards, guidelines, best practices, and other resources to meet the needs of U.S. industry, federal agencies and the broader public.”  NIST Special Publications (SP) are part of this. We are interested particularly in the SP 800 publications, which are one of multiple sub-series specifically for computer security.
 
-In this blog series, we are going to explore the following seven NIST frameworks, standards, and security controls to keep in mind when working for the Federal U.S. Government: 
+In this blog series, we are going to explore the following eight NIST frameworks, standards, and security controls to keep in mind when working for the Federal U.S. Government: 
 
 -	[CSF 1.0:](https://www.nist.gov/cyberframework) Cybersecurity Framework (version 2.0 almost ready at the time of this write-up)
 -	[FIPS PUB 200:](https://csrc.nist.gov/publications/detail/fips/200/final) Minimum Security Requirements for Federal Information and Information Systems
@@ -31,9 +31,13 @@ In this blog series, we are going to explore the following seven NIST frameworks
 -	[NIST SP 800-207:](https://csrc.nist.gov/pubs/sp/800/207/final) Zero Trust Architecture
 -	[NIST SP 800-218:](https://csrc.nist.gov/pubs/sp/800/218/final) Secure Software Development Framework (SSDF)
 
-Want to see other frameworks included or let me know what you thought about this write-up? [Get in touch](https://paolagarcia.com/contact/)!
+Although, not directly related to the U.S. Federal space, Artificial Intelligence, most commonly known as AI, has been predominately taking place in the majority of technology conversations happening today. Therefore, I wanted to call out particularly the AI RMF for Cybersecurity folks to keep an eye on:
 
-In Part II, I will be breaking down each of the seven frameworks listed above, and dive into some common use cases and how they are applied in industry.
+-	[AI RMF:](https://www.nist.gov/itl/ai-risk-management-framework/ai-rmf-development)  AI Risk Management Framework
+
+Want to see other frameworks included or let me know your thoughts about this write-up? [Get in touch](https://paolagarcia.com/contact/)!
+
+In Part II, I will be breaking down each of the eight frameworks listed above, and dive into some common use cases and how they are applied in industry.
 
 [^1]: [Gartner Forecasts Worldwide Public Cloud End-User Spending to Reach Nearly $600 Billion in 2023](https://www.gartner.com/en/newsroom/press-releases/2022-10-31-gartner-forecasts-worldwide-public-cloud-end-user-spending-to-reach-nearly-600-billion-in-2023)
 [^2]: [National Cybersecurity Strategy March 2023](https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf)
