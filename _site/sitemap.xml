@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://paolagarcia.com/about/</loc>
-<lastmod>2023-12-05T08:43:52-05:00</lastmod>
+<lastmod>2023-12-13T23:49:56-05:00</lastmod>
 </url>
 <url>
 <loc>https://paolagarcia.com/contact/</loc>
-<lastmod>2023-12-05T08:43:52-05:00</lastmod>
+<lastmod>2023-12-13T23:49:56-05:00</lastmod>
 </url>
 <url>
 <loc>https://paolagarcia.com/resume/</loc>
-<lastmod>2023-12-05T08:43:52-05:00</lastmod>
+<lastmod>2023-12-13T23:49:56-05:00</lastmod>
 </url>
 <url>
 <loc>https://paolagarcia.com/thanks/</loc>
-<lastmod>2023-12-05T08:43:52-05:00</lastmod>
+<lastmod>2023-12-13T23:49:56-05:00</lastmod>
 </url>
 <url>
 <loc>https://paolagarcia.com/blog/stem-superscholars/</loc>
@@ -41,6 +41,10 @@
 <lastmod>2022-11-04T10:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>https://paolagarcia.com/blog/usfederal-cybersecurity-compliance/</loc>
+<lastmod>2023-12-13T17:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://paolagarcia.com/project/demo-project/</loc>
 <lastmod>2018-06-29T20:00:00-04:00</lastmod>
 </url>
@@ -49,5 +53,8 @@
 </url>
 <url>
 <loc>https://paolagarcia.com/</loc>
+</url>
+<url>
+<loc>https://paolagarcia.com/blog/page2/</loc>
 </url>
 </urlset>
