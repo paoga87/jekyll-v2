@@ -14,15 +14,25 @@ featured_image: /images/resume_cover.jpg
 
 | Professional Experience                              | Dates of employment            | 
 |------------------------------------------------------|--------------------------------|
-| Cybersecurity Engineer, Bixal Solutions Inc.         | August 2019 - Present          |
+| Platform Cybersecurity Engineer, Bixal Solutions Inc. | August 2019 - Present          |
 | Software Developer                                                                    |
 | Cybersecurity Adjunct (Cyberfellows Program), New York University | September 2021 - Present |
-| Computer Science Adjunct, St. Thomas Aquinas College | September 2017 - Present       | 
+| Computer Science & Cybersecurity Adjunct, St. Thomas Aquinas College | September 2017 - Present       | 
 | Web Developer, OnSSI Inc.                            | August 2017 - August 2019      | 
 | Computer Studies Adjunct, Rockland Community College | January 2015 - January 2017    | 
 | Webmaster, Datadog Inc.                              | January 2016 - August 2016     |
 | Web/Social Interactive Developer, RNN News, LLC.     | December 2014 - January 2016   |
 | Developer, LiveTechnology Holdings, Inc.             | May 2014 - November 2014       |
+
+| Certificates                           | Year | 
+|----------------------------------------|------|
+| [Securing AI-Powered Transformation](https://maven.com/certificate/IcMBfFuT)   | 2023 | 
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6d32086a-2e0e-412a-b1dc-3e50e74ed038?source=https://paolagarcia.com)       | 2022 |
+| [CompTIA PenTest+](https://www.credly.com/badges/44f3b55f-5ed7-4eb6-b6f5-77ebb010e493/public_url)                       | 2021 |
+| [CompTIA - CNVP Stackable Certification](https://www.credly.com/badges/4504655b-3230-4c22-9a36-d38b7e578b92/public_url) | 2021 |
+| [CompTIA Security+](https://www.credly.com/badges/4e9a0ea2-b92b-4033-a6c6-a99b9b9cf3f9/public_url)                      | 2020 |
+| Project Management Certificate Program | 2015 |
+| HTML5 Mobile App Development           | 2013 |
 
 | Honors, Awards, and Scholarships                                                                     | Year | 
 |------------------------------------------------------------------------------------------------------|------|
@@ -37,25 +47,18 @@ featured_image: /images/resume_cover.jpg
 | NJCAA Division III Distinguished Academic All-American                                               | 2010 |
 | Scholar Athlete – Region XV Academic Team and Mid-Hudson Conference Academic Team NJCAA Division III | 2010 |
 
-| Certificates                           | Year | 
-|----------------------------------------|------|
-| CompTIA PenTest+                       | 2021 |
-| CompTIA - CNVP Stackable Certification | 2021 |
-| CompTIA Security+                      | 2020 |
-| Project Management Certificate Program | 2015 |
-| HTML5 Mobile App Development           | 2013 |
-
 | Knowledge & Skills                | Level          |
 |--------------------------------------------------|
+| Cloud Security, InfraSec, AWS     | ++++++       |
+| CMMC, FedRAMP, NIST               | +++++        |
+| Python, Metasploit, nmap          | +++          |
+| Kali Linux                        | +++++        |
 | HTML5, CSS, PHP, Javascript       | ++++++++     |
 | Drupal & Wordpress CMS            | ++++++++     |
 | SQL, Jekyll, Twig, Bootstrap, Git | ++++++       |
+| Databricks                        | ++++++       |
 | SASS, LESS, Accesibility, 508     | ++++++       |
-| Google Analytics                  | ++++++       |
 | Adobe Photoshop, Illustrator      | ++++++       |
 | Adobe Premiere Pro, Spark         | +++++        |
-| Kali Linux                        | +++++        |
-| CMMC, FedRAMP, ARS                | +++++        |
-| Python, Metasploit, nmap          | +++          |
 
 ##### Last updated: {{ 'now' | date: "%B, %Y" }}
