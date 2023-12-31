@@ -3,7 +3,7 @@ title: 'NIST Cybersecurity Framework (CSF)'
 subtitle: 'U.S. Federal Cybersecurity Compliance Part II: CSF'
 date: 2023-12-29 13:00:00
 location: New York, NY
-description: If you are just getting started in Cybersecurity, regardless of your organization size, this is one of the first frameworks I would recomment to start with.
+description: If you are just getting started in Cybersecurity, regardless of your organization size, this is one of the first frameworks I would recommend to start with.
 featured_image: 'https://www.nist.gov/sites/default/files/images/2023/08/07/CSF-wheel-revamp-final-white.png'
 ---
 Photo from **NIST**.
@@ -13,11 +13,11 @@ Photo from **NIST**.
 
 You can find Part I [here](/blog/usfederal-cybersecurity-compliance/).
 
-If you are just getting started in Cybersecurity, regardless of your organization size, this is one of the first frameworks I would recomment to start with. It provides guidance and best practices for organizations to start understanding and managing their cybersecurity risk. It is also important to keep in mind that the CSF is designed to be used in conjunction with other cybersecurity frameworks, standards, and guidance. However, familiarizing yourself with it, is a great first step.
+If you are just getting started in Cybersecurity, regardless of your organization size, this is one of the first frameworks I would recommend to start with. It provides guidance and best practices for organizations to start understanding and managing their cybersecurity risk. It is also important to keep in mind that the CSF is designed to be used in conjunction with other cybersecurity frameworks, standards, and guidance. However, familiarizing yourself with it, is a great first step.
 
 At the time of this writing, the [Cybersecurity Framework](https://www.nist.gov/cyberframework) version was 1.1. I have decided to go over the framework's overview using the latest draft version 2.0, which is set to be published in early 2024. 
 
-There are three important componets to keep in mind when using this framework:
+There are three important components to keep in mind when using this framework:
 
 #### Core functions
 As NIST describes it, the core functions are a "set of cybersecurity _outcomes._"[^1] You can think of the outcomes as activities needed to be implemented within the organization, to fulfill any particular control(s). These outcomes will change depending on your organization and use cases.
