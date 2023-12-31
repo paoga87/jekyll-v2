@@ -32,7 +32,7 @@ The following are the six core functions of the Cybersecurity Framework 2.0:
 - Respond (RS), and 
 - Recover (RC) 
 
-The CSF functions image depics them in the wheel shape, because they all relate to one another.
+The CSF functions image depicts them in the wheel shape, because they all relate to one another.
 
 #### Profiles
 Profiles are mechanisms created to "understand, assess, prioritize, and tailor the sector- and technology-neutral Core outcomes based on an organization's mission objectives, stakeholder expectations, threat environment, and requirements and leading practices..."[^1]
