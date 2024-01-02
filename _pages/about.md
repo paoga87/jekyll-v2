@@ -19,8 +19,10 @@ After being an Au Pair, I decided to stay and attend school here in the US. I st
 
 I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows) program in the Fall of 2018. You can check my student profile [here](https://engineering.nyu.edu/student/paola-garcia-cardenas). I graduated in the Summer of 2021 with my Masters in Cybersecurity (GPA 3.73) from [New York University (NYU)](http://www.nyu.edu/).
 
-I currently work as a Cybersecurity Engineer (previously Software Developer) at [Bixal](https://www.bixal.com/). I am also an Adjunct of Computer Science at [St. Thomas Aquinas College](http://www.stac.edu/) and an Adjunct of Cybersecurity for the Cyberfellows program at [New York University (NYU)](http://www.nyu.edu/).
+I currently work as a Platform Cybersecurity Engineer (previously Software Developer) at [Bixal](https://www.bixal.com/). I am also an Adjunct of Cybersecurity for the Cyberfellows program at [New York University (NYU)](http://www.nyu.edu/) and an Adjunct of Computer Science and Cybersecurity at [St. Thomas Aquinas College](http://www.stac.edu/).
 
-When not at work, you can find me running, exercising or enjoying walks with my dogs! I'm a huge sports fan and one of my most recent accomplishments that I'm proud of, was running my 6th full marathon in October 2023. Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
+When not at work, you can find me running, exercising or enjoying walks with my dogs! One of my most recent running accomplishments that I'm proud of was running the Berlin marathon in September 2023 to get my 3rd [Abbott World Majors' star](https://www.worldmarathonmajors.com/six-star/majors), and running my 6th full marathon in October 2023. 
+
+Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
 ##### Last updated: {{ 'now' | date: "%B, %Y" }}

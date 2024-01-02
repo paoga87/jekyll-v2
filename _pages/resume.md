@@ -14,7 +14,7 @@ featured_image: /images/resume_cover.jpg
 
 | Professional Experience                              | Dates of employment            | 
 |------------------------------------------------------|--------------------------------|
-| Platform Cybersecurity Engineer, Bixal Solutions Inc. | August 2019 - Present          |
+| Platform Cybersecurity Engineer, Bixal Solutions Inc. | August 2019 - Present         |
 | Software Developer                                                                    |
 | Cybersecurity Adjunct (Cyberfellows Program), New York University | September 2021 - Present |
 | Computer Science & Cybersecurity Adjunct, St. Thomas Aquinas College | September 2017 - Present       | 
@@ -47,10 +47,10 @@ featured_image: /images/resume_cover.jpg
 | NJCAA Division III Distinguished Academic All-American                                               | 2010 |
 | Scholar Athlete – Region XV Academic Team and Mid-Hudson Conference Academic Team NJCAA Division III | 2010 |
 
-| Knowledge & Skills                | Level          |
+| Knowledge & Skills                | Level        |
 |--------------------------------------------------|
 | Cloud Security, InfraSec, AWS     | ++++++       |
-| CMMC, FedRAMP, NIST               | +++++        |
+| CMMC, FedRAMP, NIST, CIS          | +++++        |
 | Python, Metasploit, nmap          | +++          |
 | Kali Linux                        | +++++        |
 | HTML5, CSS, PHP, Javascript       | ++++++++     |

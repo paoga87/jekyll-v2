@@ -7,4 +7,4 @@ featured_image: /images/thankyou.jpg
 
 Your message was sent successfully. I appreciate you reaching out and will get back to you as soon as possible. 
 
-In the meantime, did you checkout my [blog](/blog/) yet?
+In the meantime, did you check my [blog](/blog/) section yet?
