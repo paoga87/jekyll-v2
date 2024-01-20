@@ -15,9 +15,8 @@ featured_image: /images/resume_cover.jpg
 | Professional Experience                              | Dates of employment            | 
 |------------------------------------------------------|--------------------------------|
 | Platform Cybersecurity Engineer, Bixal Solutions Inc. | August 2019 - Present         |
-| Software Developer                                                                    |
-| Cybersecurity Adjunct (Cyberfellows Program), New York University | September 2021 - Present |
-| Computer Science & Cybersecurity Adjunct, St. Thomas Aquinas College | September 2017 - Present       | 
+| Adjunct (Cyberfellows Program), New York University   | September 2021 - Present      |
+| Computer Science & Cybersecurity Adjunct, St. Thomas Aquinas College | September 2017 - May 2023 | 
 | Web Developer, OnSSI Inc.                            | August 2017 - August 2019      | 
 | Computer Studies Adjunct, Rockland Community College | January 2015 - January 2017    | 
 | Webmaster, Datadog Inc.                              | January 2016 - August 2016     |
@@ -27,7 +26,7 @@ featured_image: /images/resume_cover.jpg
 | Certificates                           | Year | 
 |----------------------------------------|------|
 | [Securing AI-Powered Transformation](https://maven.com/certificate/IcMBfFuT)   | 2023 | 
-| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6d32086a-2e0e-412a-b1dc-3e50e74ed038?source=https://paolagarcia.com)       | 2022 |
+| [AWS Certified Cloud Practitioner](https://www.credly.com/badges/6d32086a-2e0e-412a-b1dc-3e50e74ed038?source=https://paolagarcia.com) | 2022 |
 | [CompTIA PenTest+](https://www.credly.com/badges/44f3b55f-5ed7-4eb6-b6f5-77ebb010e493/public_url)                       | 2021 |
 | [CompTIA - CNVP Stackable Certification](https://www.credly.com/badges/4504655b-3230-4c22-9a36-d38b7e578b92/public_url) | 2021 |
 | [CompTIA Security+](https://www.credly.com/badges/4e9a0ea2-b92b-4033-a6c6-a99b9b9cf3f9/public_url)                      | 2020 |
