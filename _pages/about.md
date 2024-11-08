@@ -21,7 +21,7 @@ I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/c
 
 I currently work as a Sr. Staff Cybersecurity Engineer at [Bixal](https://www.bixal.com/). I am also an Adjunct of Cybersecurity for the Cyberfellows graduate program at [New York University (NYU)](http://www.nyu.edu/).
 
-When not at work, you can find me running, exercising or enjoying walks with my dogs! One of my most recent running accomplishments that I'm proud of was running the Berlin marathon in September 2023 to get my 3rd [Abbott World Majors' star](https://www.worldmarathonmajors.com/six-star/majors), and running my 8th full marathon in June 2024 in Duluth, MN. 
+When not at work, you can find me running, exercising or enjoying walks with my dogs! One of my most recent running accomplishments that I'm proud of was running the Berlin marathon in September 2023 to get my 3rd [Abbott World Majors' star](https://www.worldmarathonmajors.com/six-star/majors), and running my 9th full marathon in September 2024 in Sydney, Australia - a candidate race for the [Abbott World Majors](https://www.worldmarathonmajors.com/sydney-major) at the time, and now officially the 7th Major as of November 3, 2024.
 
 Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
