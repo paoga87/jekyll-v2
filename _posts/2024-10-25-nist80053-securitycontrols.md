@@ -1,7 +1,7 @@
 ---
 title: 'NIST SP 800-53 & 800-53B'
 subtitle: 'U.S. Federal Cybersecurity Compliance Part II: NIST SP 800-53 & 800-53B'
-date: 2024-11-07 10:40:00
+date: 2024-11-08 10:40:00
 location: New York, NY
 description: The Security and Privacy Controls for Information Systems and Organizations provides an entire catalog of security and privacy controls to protect organizations from many different threats.
 featured_image: '/images/post/security_controls.png'
