@@ -19,9 +19,11 @@ After being an Au Pair, I decided to stay and attend school here in the US. I st
 
 I joined the [NYU Cyberfellows](https://engineering.nyu.edu/academics/programs/cybersecurity-ms-online/nyu-cyber-fellows) program in the Fall of 2018. You can check my student profile [here](https://engineering.nyu.edu/student/paola-garcia-cardenas). I graduated in the Summer of 2021 with my Masters in Cybersecurity (GPA 3.73) from [New York University (NYU)](http://www.nyu.edu/).
 
-I currently work as a Sr. Staff Cybersecurity Engineer at [Bixal](https://www.bixal.com/). I am also an Adjunct of Cybersecurity for the Cyberfellows graduate program at [New York University (NYU)](http://www.nyu.edu/).
+I currently work as a Security GRC Analyst at [Gong](https://www.gong.io/). I am also an Adjunct of Cybersecurity for the Cyberfellows graduate program at [New York University (NYU)](http://www.nyu.edu/).
 
-When not at work, you can find me running, exercising or enjoying walks with my dogs! One of my most recent running accomplishments that I'm proud of was running the Boston Marathon in April 2025 to get my 4th [Abbott World Majors' star](https://www.worldmarathonmajors.com/six-star/majors). Boston also marked my 12th full marathon, and the 9th U.S State completed in my pursuit of running a marathon in all 50 U.S States. I also was able to participate and complete the  Sydney Marathon in Australia in September 2024 - a candidate race for the [Abbott World Majors](https://www.worldmarathonmajors.com/sydney-major) at the time, and now officially the 7th Major as of November 3, 2024.
+When not at work, you can find me running, exercising or enjoying walks with my dogs! One of my most recent running accomplishments that I'm proud of was running the Boston Marathon in April 2025 to get my 4th [Abbott World Majors' star](https://www.worldmarathonmajors.com/six-star/majors). I also was able to participate and complete the Sydney Marathon in Australia in September 2024 — a candidate race for the [Abbott World Majors](https://www.worldmarathonmajors.com/sydney-major) at the time, and now officially the 7th Major as of November 3, 2024. 
+
+Following the Boston Marathon, I've paced a couple of marathons since April, with the most recent being [Steamtown Marathon](https://steamtownmarathon.com/) in Scranton, PA, to complete my 11th U.S state in my pursuit of running a marathon in all 50 U.S states, and my 14th marathon overall.
 
 Thank you for stopping by. Please visit my [blog](/blog) and let me know what you think!
 
