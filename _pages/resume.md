@@ -14,7 +14,7 @@ featured_image: /images/resume_cover.jpg
 
 | Professional Experience                              | Dates of employment            | 
 |------------------------------------------------------|--------------------------------|
-| Security GRC Analyst, [Gong](https://www.gong.io/)   | October 2025 - Present         |
+| Cybersecurity GRC Analyst, [Gong](https://www.gong.io/)   | October 2025 - Present         |
 | Sr. Staff Cybersecurity Engineer, Bixal Solutions Inc.| August 2019 - October 2025    |
 | Adjunct (Cyberfellows Program), New York University   | September 2021 - Present      |
 | Computer Science & Cybersecurity Adjunct, St. Thomas Aquinas College | September 2017 - May 2023 | 
