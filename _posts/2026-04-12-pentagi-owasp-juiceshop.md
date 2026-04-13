@@ -43,11 +43,13 @@ After installing PentAGI and navigating to the web interface, the first thing I 
 
 For this walkthrough, you'll only see one Flow: **OWASP Juice Shop Test**.
 
-| **Worth noting:** | I did not set up any observability stack for this test — PentAGI works out of the box without one. However, PentAGI also offers specialized AI agents for research, development, and infrastructure tasks, which can extend its capabilities well beyond basic scanning if you need deeper analysis or custom tooling during an engagement.
+| **Worth noting:** | I did not set up any observability stack for this test — PentAGI works out of the box without one.
 
 ## Creating a New Flow
 
 To kick off a test, click **"+ New Flow"** in the upper-right corner. You're presented with a simple modal: choose between "Automation" and "Assistant" mode, then describe what you want to test and where.
+
+PentAGI offers specialized AI agents for research, development, and infrastructure tasks, which can extend its capabilities well beyond basic scanning for deeper analysis or custom tooling during an engagement.
 
 ![PentAGI new flow creation dialog with Automation tab selected](/images/post/pentagi-new-flow.png)
 *Create a new flow — select "Automation" and describe your target and testing goals.*
